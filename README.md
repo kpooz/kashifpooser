@@ -1,4 +1,4 @@
-<h1>Welcome my name is Kashif, an <a href="https://linkedin.com/in/Kashif">IT Professional</a>☺</h1>
+<h1>Welcome my name is Kashif, an <a href="https://linkedin.com/in/KashifPooser">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
