@@ -16,6 +16,6 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Kashif
-[instagram]: https://www.instagram.com/Kashif
-[linkedin]: https://linkedin.com/in/Kashif
+[twitter]: https://twitter.com/
+[instagram]: https://www.instagram.com/cyberpooz
+[linkedin]: https://linkedin.com/in/KashifPooser
