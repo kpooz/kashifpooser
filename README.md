@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)(STILL WORKING ON IT)</b>
+- <b>osTicket (Help Desk Ticketing System)    (STILL WORKING ON IT)</b>
     - [osTicket: Prerequisites and Installation](https://github.com/kpooz/osticket-prereqs)
     - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
-- <b>Microsoft Azure(I WILL BE WORKING ON THIS ON THE 23MAR2024)</b>
+- <b>Microsoft Azure     (I WILL BE WORKING ON THIS ON THE 23MAR2024)</b>
   - [Configuring Configuring Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
